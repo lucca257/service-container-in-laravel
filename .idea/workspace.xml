@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2964a77d-6666-4496-9371-8b377ec1d7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Billing/PaymentGateway.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    <list default="true" id="2964a77d-6666-4496-9371-8b377ec1d7d6" name="Default Changelist" comment="exemplo padrao de instancializar a classe">
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PayOrderControoler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PayOrderControoler.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,8 +175,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601825675505</updated>
-      <workItem from="1601825676565" duration="1042000" />
+      <workItem from="1601825676565" duration="1332000" />
     </task>
+    <task id="LOCAL-00001" summary="exemplo padrao de instancializar a classe">
+      <created>1601827580587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601827580587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +200,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exemplo padrao de instancializar a classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="exemplo padrao de instancializar a classe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1607" y="230" key="NewPhpClassDialog" timestamp="1601827216112">
